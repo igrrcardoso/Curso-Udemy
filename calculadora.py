@@ -25,4 +25,3 @@ while True:
     if opcao == 's' or 'q':
         print('Obrigado por utilizar a calculadora, até!')
         break
-    
