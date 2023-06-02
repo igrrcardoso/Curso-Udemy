@@ -20,3 +20,4 @@ conversion flags - !r !s !a
 # print(f'{variavel: <10}')
 # print(f'{variavel: ^10}')
 # print(f'{variavel:$^10}')
+print('outro')
