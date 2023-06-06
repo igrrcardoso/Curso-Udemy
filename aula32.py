@@ -45,4 +45,3 @@ menos escreva "Seu nome é curto"; se tiver entre 5 e 6 letras, escreva
 #     print('Seu nome é normal')
 # else:
 #     print('seu nome é muito grande')
-    
