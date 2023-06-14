@@ -1,4 +1,4 @@
-#Teste calculadora 100% sozinho
+# Teste calculadora 100% sozinho
 print('bem-vindo à minha primeira calculadora, feita "100%" sozinho')
 while True:
 
