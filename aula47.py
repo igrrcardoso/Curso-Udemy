@@ -5,7 +5,7 @@ a palavra secreta.
 - Você vai propor uma palavra secreta
 qualquer e vai dar a possibilidade para
 o usuário digitar apenas uma letra.
-- Quando o usuário digitar uma letra, você 
+- Quando o usuário digitar uma letra, você
 vai conferir se a letra digitada está
 na palavra secreta.
     - Se a letra digitada estiver na
